@@ -30,6 +30,6 @@ Este script realiza las siguientes acciones, en orden:
 
 ## Ejecución del script
 
-Para ejecutar el script, debes copiarlo en un archivo con la extensión `.sh`, darle permisos de ejecución con `chmod +x nombre_del_script.sh` y luego ejecutarlo con `./nombre_del_script.sh`.
+Para ejecutar el script, debes copiarlo en un archivo con la extensión `.sh`, darle permisos de ejecución con `chmod +x plexautoinstaller.sh` y luego ejecutarlo con `./plexautoinstaller.sh`.
 
 Por último, aunque este script simplifica el proceso de instalación de Plex y rclone, es crucial que comprendas lo que hace cada comando antes de ejecutarlo. Este script modifica la configuración de tu sistema y tiene el potencial de causar problemas si se usa incorrectamente. Si encuentras problemas o errores, te recomendamos que busques ayuda en la documentación de la herramienta que está fallando o en comunidades en línea como Stack Overflow.
